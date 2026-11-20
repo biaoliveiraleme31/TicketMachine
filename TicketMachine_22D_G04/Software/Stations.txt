@@ -1,0 +1,3 @@
+225;0;Lisboa
+1500;0;Porto
+850;0;Coimbra
